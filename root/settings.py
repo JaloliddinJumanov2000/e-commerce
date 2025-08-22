@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     'djoser',
     'rest_framework_simplejwt',
 
-    'custom_auth',
     'products',
     'billing',
 ]
